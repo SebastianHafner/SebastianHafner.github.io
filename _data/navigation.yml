@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://github.com/SebastianHafner/SebastianHafner.github.io/publications/
 
   - title: "Conferences"
-    url: /conferences/
+    url: https://github.com/SebastianHafner/SebastianHafner.github.io/conferences/
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/SebastianHafner/SebastianHafner.github.io/cv/
