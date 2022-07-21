@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Sebastian Hafner"
 title_separator          : "-"
 name                     : &name "Sebastian Hafner"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastian Hafner"
-  avatar           : "profile.JPG"
+  avatar           : "profile.png"
   bio              : "PhD student @ Geoinformatics, KTH Royal Institute of Technology"
   location         : "Stockholm, Sweden"
   employer         :
