@@ -10,13 +10,9 @@ redirect_from:
 
 I am a third-year PhD student working in the Geoinformatics division at KTH Royal Institute of Technology under the supervision of Yifang Ban.
 
-My research focuses on the application of deep learning methods to Earth observation data for urban applications, including urban mapping and urbanchange detection. Specifically, I am interested in semi-supervised learning, SAR-optical data fusion and domain adaptation.
+My research focuses on the application of deep learning methods to Earth observation data for urban applications, including urban mapping and change detection. I am particularly interested in semi-supervised learning, SAR-optical data fusion and domain adaptation.
 
 # Updates
 
-<ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ul>
+
+ - July 21, 2022 - Our paper "**Unsupervised Domain Adaptation for Global Urban Extraction Using Sentinel-1 and Sentinel-2 Data**" has been accepted for publication in ***[Remote Sensing of Environment](https://www.journals.elsevier.com/remote-sensing-of-environment)***.
