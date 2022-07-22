@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Datasets"
+    url: /datasets/
+
   - title: "Conferences"
     url: /conferences/
     
