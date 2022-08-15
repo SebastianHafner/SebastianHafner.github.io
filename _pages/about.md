@@ -12,6 +12,7 @@ I am a third-year PhD student working in the Geoinformatics lab at KTH Royal Ins
 
 My research focuses on the application of deep learning methods to Earth observation data for urban applications. I am particularly interested in data fusion, semi-supervised learning and domain adaptation.
 
+ <u><a href="{{author.googlescholar}}">[Google Scholar]</a>.</u><u><a href="{{author.github}}">[Github]</a>.</u> <u><a href="{{author.researchgate}}">[ResearchGate]</a>.</u>
 ## Updates
 
 
